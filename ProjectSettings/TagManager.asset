@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tiles
+  - GM
+  - Coin
+  - Potion
+  - Door
+  - Point1
+  - Point2
+  - Point3
+  - Point4
+  - FirePoint
+  - Boss
+  - Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Tiles
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Potions
+    uniqueID: 4061283263
+    locked: 0
+  - name: Background
+    uniqueID: 3158443961
+    locked: 0
+  - name: Tiles
+    uniqueID: 3483353891
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1706651993
+    locked: 0
+  - name: UI
+    uniqueID: 2204855213
+    locked: 0
+  - name: UISpecial
+    uniqueID: 3067658525
+    locked: 0
